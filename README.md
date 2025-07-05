@@ -1,4 +1,4 @@
 # apna-college-demo
 this is my first git repositry 
 <br>
-author - chaitanya sharma 
+author - chaitanya (apna student)
